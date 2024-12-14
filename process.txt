@@ -1,0 +1,6 @@
+After initialising using npm init , we can also install express.js
+This will add the node modules , package.json & package-lock.json 
+Setup the server.js to store all the code 
+Setup the public directory , to house all HTML files (in this case just simple plain HTML files)
+In server.js , setup express path , import path to help setup the accurate paths to the HTML files 
+Setup the port or you can use it inline with the app.listen and also setup the 
